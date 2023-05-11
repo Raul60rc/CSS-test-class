@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
+}
+span{
+    color: orange;
+}
+h2{
+    color: green;
+}
+hr{
+    color: green;
+}
+.box1{
+    padding: 20px;
+    border: solid 4px grey;
+ }
+.box2{
+    border: solid 1px grey;
+    padding: 20px;
+ }
